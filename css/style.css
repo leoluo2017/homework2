@@ -4,6 +4,9 @@
     background-color: black;
 
 }
+header{
+    background-color: black;
+}
 
 h1 {
     font-size: 64px;
@@ -71,6 +74,7 @@ footer {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
+    background-color:black;
 }
 
 
